@@ -2,7 +2,7 @@
 
 The 9 AM scheduled task follows this file. Edit it to change behaviour; changes apply from the next run.
 
-Recipient: rushikeshbhaskar7@gmail.com
+Recipients: rushikeshbhaskar7@gmail.com, patelsavan5553@gmail.com
 
 ## 1. Pick up new books
 For each folder in `books/` with no entries in `queue.json`: append one item per numbered chapter PDF
@@ -24,7 +24,7 @@ If `item.summary` is missing:
   Relate examples to that stack where it helps.
 
 ## 4. Email it
-Gmail `send_message` to the recipient:
+Gmail `send_message` to all recipients (in `to`):
 - Subject: `📘 <Book> — Ch <n>: <Title>` (+ ` (part x/2)` when split)
 - `htmlBody`: the summary rendered (python `markdown` with `tables`; leave a blank line before every list) as clean HTML (headings, lists, tables, `<code>`), max-width ~680px, readable on phone.
   Footer: `Next: <next item title>` and position `<k>/<total>`.
