@@ -1,0 +1,83 @@
+[
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 1,
+    "title": "The AI-Native Engineer",
+    "pdf": "books/ai-native-software-engineering/1._The_AI-Native_Engineer.pdf",
+    "summary": "summaries/ai-native-software-engineering/01-the-ai-native-engineer.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 2,
+    "title": "From LLMs to Agents",
+    "pdf": "books/ai-native-software-engineering/2._From_LLMs_to_Agents.pdf",
+    "summary": "summaries/ai-native-software-engineering/02-from-llms-to-agents.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 3,
+    "title": "Context Engineering Fundamentals",
+    "pdf": "books/ai-native-software-engineering/3._Context_Engineering_Fundamentals.pdf",
+    "summary": "summaries/ai-native-software-engineering/03-context-engineering-fundamentals.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 4,
+    "title": "Model Context Protocol",
+    "pdf": "books/ai-native-software-engineering/4._Model_Context_Protocol.pdf",
+    "summary": "summaries/ai-native-software-engineering/04-model-context-protocol.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 5,
+    "title": "Spec-Driven Development",
+    "pdf": "books/ai-native-software-engineering/5._Spec-Driven_Development.pdf",
+    "summary": "summaries/ai-native-software-engineering/05-spec-driven-development.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 6,
+    "title": "The SDD Workflow",
+    "pdf": "books/ai-native-software-engineering/6._The_SDD_Workflow.pdf",
+    "summary": "summaries/ai-native-software-engineering/06-the-sdd-workflow.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 7,
+    "title": "SDD Frameworks Compared",
+    "pdf": "books/ai-native-software-engineering/7._SDD_Frameworks_Compared.pdf",
+    "summary": "summaries/ai-native-software-engineering/07-sdd-frameworks-compared.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 8,
+    "title": "Verification and Quality Gates",
+    "pdf": "books/ai-native-software-engineering/8._Verification_and_Quality_Gates.pdf",
+    "summary": "summaries/ai-native-software-engineering/08-verification-and-quality-gates-part1.md",
+    "part": "1/2",
+    "pages": "1-28"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 8,
+    "title": "Verification and Quality Gates",
+    "pdf": "books/ai-native-software-engineering/8._Verification_and_Quality_Gates.pdf",
+    "summary": "summaries/ai-native-software-engineering/08-verification-and-quality-gates-part2.md",
+    "part": "2/2",
+    "pages": "29-55"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 9,
+    "title": "Agent Orchestration Patterns",
+    "pdf": "books/ai-native-software-engineering/9._Agent_Orchestration_Patterns.pdf",
+    "summary": "summaries/ai-native-software-engineering/09-agent-orchestration-patterns.md"
+  },
+  {
+    "book": "AI-Native Software Engineering",
+    "chapter": 10,
+    "title": "Scaling AI-Native Engineering in Teams",
+    "pdf": "books/ai-native-software-engineering/10._Scaling_AI-Native_Engineering_in_Teams.pdf",
+    "summary": "summaries/ai-native-software-engineering/10-scaling-ai-native-engineering-in-teams.md"
+  }
+]
