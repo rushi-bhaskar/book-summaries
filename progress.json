@@ -1,10 +1,15 @@
 {
-  "next": 1,
+  "next": 2,
   "sent": [
     {
       "index": 0,
       "title": "Ch 1: The AI-Native Engineer",
       "date": "2026-11-05"
+    },
+    {
+      "index": 1,
+      "title": "Ch 2: From LLMs to Agents",
+      "date": "2026-11-09"
     }
   ]
 }
